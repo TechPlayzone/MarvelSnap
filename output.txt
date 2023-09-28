@@ -1,0 +1,714 @@
+Abomination
+
+5
+9
+starter-card
+
+Absorbing Man
+<span>On Reveal</span>: If the last card you played has an On Reveal, copy its text. (if it's in play)
+4
+4
+pool-3
+
+Aero
+<span>On Reveal</span>: Move the last enemy card played this turn to this location.
+5
+8
+pool-3
+
+Agatha Harkness
+Agatha starts in your hand and plays your cards for you.
+6
+14
+pool-3
+
+Agent 13
+<span>On Reveal</span>: Add a random card to your hand.
+1
+2
+pool-2
+
+America Chavez
+Starts on the bottom of your deck. Draw this on turn 6.
+6
+9
+pool-1
+
+Angel
+When one of your cards is destroyed, this flies out of your deck to replace it.
+1
+2
+pool-1
+
+Angela
+After you play a card here, +2 Power.
+2
+0
+pool-1
+
+Ant Man
+<span>Ongoing</span>: If you have 3 other cards here, +3 Power.
+1
+1
+recruit-season
+
+Apocalypse
+When you discard this from your hand, put it back with +4 Power.
+6
+8
+pool-1
+
+Armor
+<span>Ongoing</span>: Cards at this location can't be destroyed.
+2
+3
+pool-1
+
+Attuma
+If you have another card here at the end of your turn, destroy this.
+4
+10
+pool-3
+
+Bishop
+After you play a card, this gains +1 Power.
+3
+1
+pool-1
+
+Black Bolt
+<span>On Reveal</span>: Discard the lowest-cost card from your opponent's hand.
+5
+7
+pool-3
+
+Black Cat
+If you end the turn with this in your hand, discard it.
+4
+9
+pool-3
+
+Black Panther
+<span>On Reveal</span>: Double this card's Power.
+5
+4
+pool-3
+
+Blade
+<span>On Reveal</span>: Discard the rightmost card from your hand.
+1
+3
+pool-1
+
+Blue Marvel
+<span>Ongoing</span>: Your other cards have +1 Power.
+5
+3
+recruit-season
+
+Bucky Barnes
+When this is destroyed, replace it with the Winter Soldier.
+2
+1
+pool-2
+
+Cable
+<span>On Reveal</span>: Put the bottom card of your opponent's deck into your hand.
+2
+2
+pool-1
+
+Captain America
+<span>Ongoing</span>: Your other cards at this location have +1 Power.
+3
+3
+pool-1
+
+Carnage
+<span>On Reveal</span>: Destroy your other cards here. +2 Power for each destroyed.
+2
+2
+pool-1
+
+Cerebro
+<span>Ongoing</span>: Your highest-Power cards have +2 Power.
+3
+0
+pool-3
+
+Cloak
+<span>On Reveal</span>: Next turn, both players can move cards to this location.
+2
+4
+pool-2
+
+Colossus
+<span>Ongoing</span>: Can't be destroyed, moved, or have its Power reduced.
+2
+3
+recruit-season
+
+Cosmo
+<span>Ongoing</span>: On Reveal abilities won't happen at this location.
+3
+3
+pool-1
+
+Cyclops
+
+3
+4
+starter-card
+
+Dagger
+When this moves to a location, +2 Power for each card your opponent has there.
+2
+2
+pool-3
+
+Daken
+<span>On Reveal</span>: Add the Muramasa Shard to your hand.
+3
+4
+pool-5
+
+Deadpool
+When this is destroyed, return it to your hand with double the Power.
+1
+1
+pool-3
+
+Death
+Costs 1 less for each card destroyed this game.
+8
+12
+pool-3
+
+Deathlok
+<span>On Reveal</span>: Destroy your other cards at this location.
+3
+5
+pool-1
+
+Devil Dinosaur
+<span>Ongoing</span>: +2 Power for each card in your hand.
+5
+3
+pool-1
+
+Doctor Strange
+<span>On Reveal</span>: Move your highest-Power card(s) to this location.
+3
+3
+pool-1
+
+Domino
+You always draw this card on turn 2, and not before.
+2
+3
+pool-1
+
+Drax
+<span>On Reveal</span>: If your opponent played a card here this turn, +2 Power.
+4
+6
+pool-3
+
+Ebony Maw
+You can't play this after turn 3. <span>Ongoing</span>: You can't play cards here.
+1
+7
+pool-2
+
+Elektra
+<span>On Reveal</span>: Destroy a random enemy 1-Cost card at this location.
+1
+1
+pool-1
+
+Enchantress
+<span>On Reveal</span>: Remove the abilities from all Ongoing cards at this location.
+4
+5
+pool-1
+
+Falcon
+<span>On Reveal</span>: Return your 1-Cost cards to your hand.
+2
+3
+pool-3
+
+Forge
+<span>On Reveal</span>: Give the next card you play +3 Power.
+2
+1
+pool-1
+
+Gamora
+<span>On Reveal</span>: If your opponent played a card here this turn, +5 Power.
+5
+7
+recruit-season
+
+Giganto
+You can only play this at the left location.
+6
+14
+pool-3
+
+Groot
+<span>On Reveal</span>: If your opponent played a card here this turn, +2 Power.
+3
+4
+pool-1
+
+Hawkeye
+<span>On Reveal</span>: If you play a card here next turn, +3 Power.
+1
+1
+starter-card
+
+Heimdall
+<span>On Reveal</span>: Move your other cards one location to the left.
+6
+8
+pool-1
+
+Hobgoblin
+<span>On Reveal</span>: Your opponent gains control of this.
+5
+-8
+pool-2
+
+Hulk
+
+6
+12
+starter-card
+
+Human Torch
+When this moves, double its Power.
+1
+2
+pool-3
+
+Iceman
+<span>On Reveal</span>: Give a random card in your opponent's hand +1 Cost. (maximum 6)
+1
+2
+pool-2
+
+Iron Fist
+<span>On Reveal</span>: After you play your next card, move it one location to the left.
+1
+2
+pool-1
+
+Iron Man
+<span>Ongoing</span>: Your total Power is doubled at this location.
+5
+0
+starter-card
+
+Ironheart
+<span>On Reveal</span>: Give 3 other friendly cards +2 Power.
+3
+0
+recruit-season
+
+Jessica Jones
+<span>On Reveal</span>: If you don't play a card here next turn, +4 Power.
+4
+4
+collection-level
+
+Jubilee
+<span>On Reveal</span>: Add the top card of your deck to this location.
+4
+1
+pool-2
+
+Killmonger
+<span>On Reveal</span>: Destroy ALL 1-Cost cards.
+3
+3
+pool-2
+
+Kingpin
+When a card moves here on turn 6, destroy it.
+3
+4
+pool-3
+
+Kitty Pryde
+When this returns to your hand, +1 Power. Returns at the start of each turn.
+1
+2
+pool-5
+
+Klaw
+<span>Ongoing</span>: The location to the right has +6 Power.
+5
+4
+pool-1
+
+Knull
+<span>Ongoing</span>: Has the combined Power of all cards destroyed this game.
+6
+0
+pool-4
+
+Korg
+<span>On Reveal</span>: Shuffle a Rock into your opponent's deck.
+1
+2
+pool-1
+
+Kraven
+When a card moves here, this gains +2 Power.
+2
+2
+pool-1
+
+Lady Sif
+<span>On Reveal</span>: Discard the highest-cost card from your hand.
+3
+5
+pool-1
+
+Leech
+At the start of turn 6, remove all abilities from cards in your opponent's hand.
+5
+3
+pool-2
+
+Lizard
+<span>Ongoing</span>: -4 Power if your opponent has 4 cards here.
+2
+5
+pool-1
+
+Lockjaw
+
+3
+2
+pool-3
+
+Loki
+<span>On Reveal</span>: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.
+3
+5
+season-pass
+
+Magik
+<span>On Reveal</span>: Replace this location with 'Limbo'. Doesn't work after turn 5.
+3
+2
+pool-3
+
+Magneto
+<span>On Reveal</span>: Move all opposing 3 and 4-Cost cards to this location.
+6
+12
+pool-3
+
+Mantis
+<span>On Reveal</span>: If your opponent played a card here this turn, draw a card from their deck.
+1
+2
+pool-1
+
+Medusa
+<span>On Reveal</span>: If this is at the middle location, +3 Power.
+2
+2
+starter-card
+
+Miles Morales
+If a card moved last turn, this costs 1.
+4
+5
+pool-3
+
+Mister Fantastic
+<span>Ongoing</span>: Adjacent locations have +2 Power.
+3
+2
+collection-level
+
+Mister Sinister
+<span>On Reveal</span>: Add a Sinister Clone to this location with the same Power.
+2
+2
+pool-1
+
+Misty Knight
+
+1
+2
+starter-card
+
+Mojo
+<span>Ongoing</span>: If both players have 4 cards at this location, +6 Power.
+2
+2
+pool-3
+
+Moon Girl
+<span>On Reveal</span>: Duplicate your hand.
+4
+4
+pool-1
+
+Morbius
+<span>Ongoing</span>: +2 Power for each time you discarded a card this game.
+2
+0
+pool-2
+
+Morph
+<span>On Reveal</span>: Become a copy of a random card in your opponent's hand.
+3
+0
+pool-1
+
+Multiple Man
+When this moves, add a copy to the old location.
+2
+3
+pool-1
+
+Mysterio
+As you play this, play Illusions to other locations. Disguise this as an Illusion until the game ends.
+2
+4
+pool-3
+
+Nakia
+<span>On Reveal</span>: Give all cards in your hand +1 Power.
+3
+3
+pool-2
+
+Namor
+<span>Ongoing</span>: +5 Power if this is your only card here.
+4
+6
+pool-1
+
+Nightcrawler
+You can move this once.
+1
+2
+collection-level
+
+Nova
+When this is destroyed, give your cards +1 Power.
+1
+1
+pool-1
+
+Patriot
+<span>Ongoing</span>: Your cards with no abilities have +2 Power.
+3
+1
+pool-3
+
+Rhino
+<span>On Reveal</span>: Ruin this location. (remove its ability)
+3
+3
+pool-2
+
+Rocket Raccoon
+<span>On Reveal</span>: If your opponent played a card here this turn, +2 Power.
+1
+2
+pool-1
+
+Rogue
+<span>On Reveal</span>: Steal an Ongoing ability from a random enemy card at this location.
+3
+2
+pool-3
+
+Sabretooth
+When this is destroyed, return it to your hand. It costs 0.
+3
+4
+pool-2
+
+Sandman
+<span>Ongoing</span>: Players can only play 1 card a turn.
+5
+3
+pool-2
+
+Scarlet Witch
+<span>On Reveal</span>: Replace this location with a random new one.
+2
+3
+pool-1
+
+Scorpion
+<span>On Reveal</span>: Afflict cards in your opponent's hand with -1 Power.
+2
+2
+pool-2
+
+Sentinel
+<span>On Reveal</span>: Add another Sentinel to your hand.
+2
+3
+starter-card
+
+Sera
+<span>Ongoing</span>: Cards in your hand cost 1 less. (minimum 1)
+5
+4
+pool-3
+
+Shadow King
+<span>On Reveal</span>: Set all cards here to their original base Power.
+2
+3
+pool-3
+
+Shocker
+
+2
+3
+starter-card
+
+Silk
+After ANY card is played here, this moves to another location.
+2
+5
+pool-5
+
+Spectrum
+<span>On Reveal</span>: Give your Ongoing cards +2 Power.
+6
+5
+collection-level
+
+Squirrel Girl
+<span>On Reveal</span>: Add a 1-Power Squirrel to each other location.
+1
+1
+pool-1
+
+Storm
+<span>On Reveal</span>: Flood this location. Next turn is the last turn cards can be played here.
+3
+2
+pool-2
+
+Strong Guy
+<span>Ongoing</span>: If your hand is empty, +6 Power.
+4
+4
+pool-1
+
+Sunspot
+At the end of each turn, gain +1 Power for each unspent Energy.
+1
+0
+pool-2
+
+Swarm
+When this is discarded from your hand, add two copies that Cost 0 to your hand.
+2
+3
+pool-2
+
+Sword Master
+<span>On Reveal</span>: Discard a card from your hand.
+3
+6
+pool-1
+
+Taskmaster
+<span>On Reveal</span>: Set this card's Power equal to that of the last card you played. (if that card's in play)
+5
+0
+pool-3
+
+The Collector
+
+2
+0
+pool-2
+
+Thor
+<span>On Reveal</span>: Shuffle Mjolnir into your deck.
+3
+4
+pool-3
+
+Typhoid Mary
+<span>Ongoing</span>: Your other cards have -1 Power.
+4
+10
+pool-3
+
+Valkyrie
+<span>On Reveal</span>: Set ALL cards at this location to 3 Power.
+5
+3
+pool-3
+
+Vision
+You can move this each turn.
+5
+8
+pool-2
+
+Vulture
+When this card moves, +5 Power.
+3
+3
+pool-2
+
+Warpath
+<span>Ongoing</span>: If any of your locations are empty, +4 Power.
+4
+5
+pool-2
+
+White Queen
+<span>On Reveal</span>: Copy the highest-Cost card in your opponent's hand into your hand.
+4
+6
+pool-1
+
+White Tiger
+<span>On Reveal</span>: Add a 7-Power Tiger to another location.
+5
+1
+collection-level
+
+Wolfsbane
+<span>On Reveal</span>: +2 Power for each other card you have here.
+3
+1
+collection-level
+
+Wolverine
+When this is discarded or destroyed, regenerate it at a random location with +2 Power.
+2
+2
+pool-1
+
+Yondu
+<span>On Reveal</span>: Destroy the top card of your opponent's deck.
+1
+2
+pool-1
+
+Zero
+<span>On Reveal</span>: Remove the abilities on the next card you play.
+1
+3
+pool-3
+
