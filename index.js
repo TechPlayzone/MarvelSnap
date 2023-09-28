@@ -2,7 +2,7 @@
 const fs = require("fs");
 
 // Array of card names to extract
-const cardsToExtract = fs.readFileSync("mycards.txt").toString().split(",");
+const cardsToExtract = fs.readFileSync("mycards.txt").toString().split(", ");
 
 const data = require("./Marvel_Snap_Cards_9_28.json");
 
